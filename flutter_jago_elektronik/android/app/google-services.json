@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626856174117",
+    "project_id": "flutter-jago-elektronik-1986d",
+    "storage_bucket": "flutter-jago-elektronik-1986d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626856174117:android:c1dc5f3171284ecc4715cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_jago_elektronik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626856174117-d1vcto7j0se1u94852adtkkqj710pl1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_jago_elektronik",
+            "certificate_hash": "c3f8707af9009bc1c96555b7c216510283776e89"
+          }
+        },
+        {
+          "client_id": "626856174117-hheavj10dlfdre6vaq0jmcdd9pneg3iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlbWR0fGHG2yyJ27m064zhB7oAyUR_yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626856174117-ai9dm0bd1r0tupte2ihk5ulellreguc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
